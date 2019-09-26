@@ -91,6 +91,10 @@ body{
   background-size: cover;
 }
 
+.search_bar {
+text-align: center;
+}
+
 .reg{
   color: ##7c7c7d;
 }
